@@ -2,7 +2,6 @@
 # CICD PIPELINE
 
 Building A End to End Continuous Integration and Continuous Deployment System on AWS Services
-
 A simple Program made in Flask was used to Build the project. The Program Simplly
 print "Hello World' String
 
